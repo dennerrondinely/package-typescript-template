@@ -1,0 +1,1 @@
+# pachage-typescript-template
