@@ -1,1 +1,1 @@
-# pachage-typescript-template
+# package-typescript-template
